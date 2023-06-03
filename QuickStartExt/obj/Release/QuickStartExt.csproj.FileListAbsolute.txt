@@ -1,0 +1,17 @@
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\bin\Release\QuickStartExt.dll
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\bin\Release\QuickStartExt.pdb
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\bin\Release\QuickStartExt.pkgdef
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\bin\Release\QuickStartExt.vsix
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\bin\Release\extension.vsixmanifest
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.csproj.AssemblyReference.cache
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\_EmptyResource.resources
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.csproj.GenerateResource.cache
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.csproj.CoreCompileInputs.cache
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.dll
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.pdb
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.pkgdef
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\QuickStartExt.latest.pkgdef
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\extension.vsixmanifest
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\files.json
+C:\Users\sufya\source\repos\QuickStartExt\QuickStartExt\obj\Release\createTemplateManifests.cache
